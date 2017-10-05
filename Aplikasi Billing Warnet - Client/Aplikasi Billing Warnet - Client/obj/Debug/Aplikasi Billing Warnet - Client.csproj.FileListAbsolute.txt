@@ -1,0 +1,18 @@
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\bin\Debug\Aplikasi Billing Warnet - Client.exe
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\bin\Debug\Aplikasi Billing Warnet - Client.pdb
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\obj\Debug\Aplikasi Billing Warnet - Client.csprojResolveAssemblyReference.cache
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\obj\Debug\Aplikasi_Billing_Warnet___Client.Form1.resources
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\obj\Debug\Aplikasi_Billing_Warnet___Client.Properties.Resources.resources
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\obj\Debug\Aplikasi Billing Warnet - Client.csproj.GenerateResource.Cache
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\obj\Debug\Aplikasi Billing Warnet - Client.exe
+c:\users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\obj\Debug\Aplikasi Billing Warnet - Client.pdb
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\obj\Debug\Aplikasi Billing Warnet - Client.exe
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\obj\Debug\Aplikasi Billing Warnet - Client.pdb
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\bin\Debug\Aplikasi Billing Warnet - Client.exe
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\bin\Debug\Aplikasi Billing Warnet - Client.pdb
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\obj\Debug\Aplikasi Billing Warnet - Client.csprojResolveAssemblyReference.cache
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\obj\Debug\Aplikasi_Billing_Warnet___Client.Form1.resources
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\obj\Debug\Aplikasi_Billing_Warnet___Client.Properties.Resources.resources
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\obj\Debug\Aplikasi Billing Warnet - Client.csproj.GenerateResource.Cache
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\obj\Debug\Aplikasi_Billing_Warnet___Client.Form2.resources
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Client\Aplikasi Billing Warnet - Client\bin\Debug\Aplikasi Billing Warnet - Client.exe.config

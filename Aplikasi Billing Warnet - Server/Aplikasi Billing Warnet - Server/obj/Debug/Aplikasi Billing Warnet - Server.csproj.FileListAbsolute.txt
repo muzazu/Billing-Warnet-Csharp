@@ -1,0 +1,22 @@
+C:\Users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\bin\Debug\Aplikasi Billing Warnet - Server.exe
+C:\Users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\bin\Debug\Aplikasi Billing Warnet - Server.pdb
+C:\Users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\obj\Debug\Aplikasi Billing Warnet - Server.csprojResolveAssemblyReference.cache
+C:\Users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\obj\Debug\Aplikasi_Billing_Warnet___Server.Form1.resources
+C:\Users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\obj\Debug\Aplikasi_Billing_Warnet___Server.Properties.Resources.resources
+C:\Users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\obj\Debug\Aplikasi Billing Warnet - Server.csproj.GenerateResource.Cache
+C:\Users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\obj\Debug\Aplikasi Billing Warnet - Server.exe
+C:\Users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\obj\Debug\Aplikasi Billing Warnet - Server.pdb
+C:\Users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\bin\Debug\Database.mdf
+C:\Users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\bin\Debug\Database_log.ldf
+C:\Users\zaid\documents\visual studio 2015\Projects\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\bin\Debug\Aplikasi Billing Warnet - Server.exe.config
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\bin\Debug\Aplikasi Billing Warnet - Server.exe.config
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\obj\Debug\Aplikasi Billing Warnet - Server.exe
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\obj\Debug\Aplikasi Billing Warnet - Server.pdb
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\bin\Debug\Database.mdf
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\bin\Debug\Database_log.ldf
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\bin\Debug\Aplikasi Billing Warnet - Server.exe
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\bin\Debug\Aplikasi Billing Warnet - Server.pdb
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\obj\Debug\Aplikasi Billing Warnet - Server.csprojResolveAssemblyReference.cache
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\obj\Debug\Aplikasi_Billing_Warnet___Server.Form1.resources
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\obj\Debug\Aplikasi_Billing_Warnet___Server.Properties.Resources.resources
+Z:\belajar\c#\Billing warnet\Aplikasi Billing Warnet - Server\Aplikasi Billing Warnet - Server\obj\Debug\Aplikasi Billing Warnet - Server.csproj.GenerateResource.Cache
